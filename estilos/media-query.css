@@ -34,4 +34,11 @@
         height: 100%;
         margin: 5px;
     }
+    div#formulario > h1{
+    font-size: 2em;
+
+}
+    div#formulario > p{
+    font-size:1.1em;
+}
 }
