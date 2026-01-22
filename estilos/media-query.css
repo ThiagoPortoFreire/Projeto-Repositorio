@@ -9,6 +9,7 @@
     
     section#login{
         width: 90%;
+        height: 280px;
     } 
     section#login > div#imagem{
         float: left;
@@ -27,6 +28,7 @@
     }
     section#login{
         width: 950px;
+        height: 350px;
     }
     section#login > div#imagem{
         float: left;
@@ -45,6 +47,8 @@
 }
     div#formulario > p{
     font-size:1.1em;
+    margin: 20px 0px;
+    padding-left: 5px;
 }
 
 }
